@@ -8,7 +8,7 @@ A clean and responsive personal portfolio built using HTML5 only. Designed to hi
 - Responsive layout for all devices
 - Clean UI showcasing projects, skills, and contact details
 
-🚀 Live Site URL: [  ] 
+🚀 Live Site URL: [ https://birumj.github.io/Single-Page-HTML-CV-Project/ ] 
 Project URL: [  ]
 
 🧠 Still improving! Feedback welcome.
